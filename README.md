@@ -7,7 +7,7 @@
 
 ## Usage
 
-1.By a given spectra of a core collapse supernnova and a set of initial values on parameters including supernova temperature and radius, and dust temperature and dust mass a modified black body function will be fitted and the values for the best fit will be estimated.
+By a given spectra of a core collapse supernova and a set of initial values on parameters including supernova temperature and radius, and dust temperature and dust mass a modified black body function will be fitted and the values for the best fit will be estimated.
 
 
 
@@ -15,4 +15,6 @@
 
 I acknowledge the support and discussions with Christa Gall.
 
-## Reference
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4687442.svg)](https://doi.org/10.5281/zenodo.4687442)
